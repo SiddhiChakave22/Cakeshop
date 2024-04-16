@@ -1,0 +1,64 @@
+*{
+    margin:0%;
+}
+
+.navbar{
+    height:80px;
+    width: 100vw;
+    background-color: black;
+}
+
+.logo{
+        position: absolute;
+        top: 7px;
+        left: 700px;
+        border: 0px;
+        z-index: 1;
+}
+
+.bg{
+    position:relative;
+    background-image: url("bg.jpg");
+    top:2px;
+    background-size: cover;
+    height: 100vh;
+    opacity: 90%;
+}
+
+.h1{
+    color: #e98f78;
+    font-family: 'Bauhaus 93';
+    position: relative;
+    top: 206px;
+    left: -419px;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.h2{
+    color: #e0cbc8;
+    font-family: 'Gabriola';
+    position: relative;
+    top: 216px;
+    left: -420px;
+    font-size: 32px;
+    text-align: center;
+
+}
+
+.expbtn{
+    width: 164px;
+    height: 58px;
+    position: relative;
+    top: 248px;
+    left: 281px;
+    font-size: 26px;
+    border: none;
+    border-radius: 86px;
+    text-align: center;
+    font-family: 'Lucida Calligraphy';
+    background-color:#e98f78;
+    color:black;
+    cursor: pointer;
+}

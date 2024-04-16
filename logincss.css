@@ -1,0 +1,114 @@
+*{
+    margin:0%;
+}
+
+body{
+    background-color: #e7cab8;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.navbar{
+    height: 65px;
+    width: 100vw;
+    background-color: #efe4e3;
+    border-bottom: solid;
+    border-bottom-style: solid;
+    border-bottom-style: solid;
+}
+
+.logo{
+    position: absolute;
+    top: 2px;
+    left: 25px;
+    border: 0px;
+    z-index: 1;
+}
+
+.sideimg{
+    position: relative;
+    top: 258px;
+    left: 1174px;
+}
+
+.box{
+    height: 462px;
+    width: 619px;
+    background-color: white;
+    position: relative;
+    left: 473px;
+    top: -89px;
+    margin-bottom: 50px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, .3);
+    
+    border-radius: 10px;
+}
+
+.boximg{
+    position: relative;
+    top: 73px;
+    left: 946px;
+    height: 159px;
+    width: 134px;
+    z-index: 1;
+}
+
+.head{
+    font-family: 'Centaur';
+    font-size: 37px;
+    position: relative;
+    left: 30px;
+    top: 18px;
+}
+
+.head1{
+    font-size: 20px;
+    font-family: 'Bradley Hand ITC';
+    position: relative;
+    top: 28px;
+    left: 29px;
+}
+
+.myform{
+    text-align: left;
+}
+
+.lb{
+    
+    font-size: 19px;
+    line-height: 19.6px;
+    color: #4f4f4f;
+    font-family: Montserrat-Medium !important;
+    font-weight: 600 !important;
+    position: relative;
+    top: 71px;
+    left: 29px;
+
+}
+
+.lbin{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    width: 560px;
+    height: 42px;
+    position: relative;
+    top: 74px;
+    left: 29px;
+}
+
+.sbtn{
+    position: relative;
+    width: 560px;
+    height: 53px;
+    background-color: #efe4e3;
+    top: 97px;
+    left: 29px;
+    text-align: center;
+    font-size: 29px;
+    font-family: 'Gabriola';
+    border: 0%;
+    font-weight: bolder;
+}
+
