@@ -19,7 +19,7 @@ body{
     place-content: center;
 }
 .container{
-    width: 80vw;
+    width: 71vw;
     height:80vh;
     display: flex;
     flex-direction: column;
